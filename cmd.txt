@@ -1,0 +1,1 @@
+pkg install wget && wget https://raw.githubusercontent.com/MasterDevX/java/master/installjava && bash installjava
